@@ -390,7 +390,7 @@ const ProjectScheduler = () => {
   );
 };
 
-export default App;
+export default ProjectScheduler;
 
 // --- 样式注入 ---
 if (typeof document !== 'undefined') {
